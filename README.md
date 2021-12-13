@@ -1,2 +1,3 @@
 # krayzedpinoy.keybase.pub
-Personal Website on Keybase
+Personal Website on Keybase.
+Slowly learning and creating.
